@@ -17,6 +17,9 @@ Welcome to the **I'm Rabo** GitHub repository! This repository hosts the source 
 
 The **I'm Rabo** project is a personal exploration of Three.js, where we utilize the power of WebGL to render captivating 3D scenes directly in the browser. The project showcases various examples of 3D graphics, animations, and interactivity, highlighting the potential of Three.js in creating immersive web experiences.
 
+![Screenshot 2023-08-13 222405](https://github.com/iamprathameshmore/imrabo/assets/91453437/aa6fdf85-19d4-4a59-8a29-4332c1307037)
+
+
 ## Features
 
 - Stunning 3D visualizations.
