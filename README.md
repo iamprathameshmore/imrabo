@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/im-rabo-threejs.git
+   git clone https://github.com/iamprathameshmore/im-rabo-threejs.git
    ```
 
 2. Navigate to the project directory:
